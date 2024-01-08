@@ -1,45 +1,12 @@
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
 
-These are common Git commands used in various situations:
-
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
-
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
-
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
-
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
-
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+  <p dir="auto">"# deleted-rows-SweetAlert2"</p>
+  <p dir="auto">Deleted rows SweetAlert2 es un script web desarrollado con PHP, MySQL y Bootstrap 5, que cubre una serie de  requerimientos básicos para llevar a cabo la eliminación de registros de una tabla MySQL. Esta es  una solución sencilla  para que los programadores puedan implementar en sus <a href="https://baulphp.com/%E2%96%B7-crud-php-pdo-bootstrap-modal-ejemplo-completo/">CRUD</a> la elegante manera de mostrar cuadros de dialogo.</p>
+  <p dir="auto">Instalación en windows (servidor local)</p>
+  <p dir="auto">1- Descargar los archivos fuentes del script</p>
+  <p dir="auto">2- Copiar y descomprimir el archivo en la carpeta   c:\xampp\htdocs, al final tendras una carpeta llamada &ldquo;deleted-rows-SweetAlert2&rdquo;, a   la cual podrás acceder desde el navegador como: <a href="http://localhost/deleted-rows-SweetAlert2/">http://localhost/deleted-rows-SweetAlert2/</a></p>
+  <p dir="auto">3- Crear una base de datos usando PHPMyAdmin accediendo a la url siguiente: <a href="http://localhost/phpmyadmin/">http://localhost/phpmyadmin/</a></p>
+  <p dir="auto">4- Importar las tablas de la base de datos para ello vamos   a buscar el archivo "database/clientes.sql" en el directorio root de nuestro   sistema, una vez localizado procedemos a hacer la importación de los   datos desde PHPMyAdmin</p>
+  <p dir="auto">5- Configurar los datos de conexión a la base de datos   editando el archivo de configuración que se encuentra en la siguiente   ruta: simple_stock/db.php</p>
+  <p dir="auto">6- Vista web: <a href="http://localhost/deleted-rows-SweetAlert2/" rel="nofollow">http://localhost/deleted-rows-SweetAlert2/</a></p>
+ 
+  <p dir="auto">Para más información visita: <a href="https://baulphp.com/download/como-eliminar-fila-en-mysql-usando-sweetalert2/">https://baulphp.com/download/como-eliminar-fila-en-mysql-usando-sweetalert2/</a></p>
